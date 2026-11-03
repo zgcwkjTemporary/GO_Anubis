@@ -1,6 +1,6 @@
 module github.com/TecharoHQ/anubis
 
-go 1.27.3
+go 1.26.10
 
 require (
 	cel.dev/cel-go v0.32.0
