@@ -27,3 +27,7 @@ web/static/locales/*.json
 target/*
 web/static/wasm/baseline/*.wasm
 web/static/wasm/simd128/*.wasm
+
+# 本地构建工具链与产物
+.buildtools/
+build/
